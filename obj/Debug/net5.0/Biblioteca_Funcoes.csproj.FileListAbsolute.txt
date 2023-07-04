@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Biblioteca_Funcoes\bin\Debug\net5.0\Biblioteca_Funcoes.exe
+C:\Users\User\source\repos\Biblioteca_Funcoes\bin\Debug\net5.0\Biblioteca_Funcoes.deps.json
+C:\Users\User\source\repos\Biblioteca_Funcoes\bin\Debug\net5.0\Biblioteca_Funcoes.runtimeconfig.json
+C:\Users\User\source\repos\Biblioteca_Funcoes\bin\Debug\net5.0\Biblioteca_Funcoes.runtimeconfig.dev.json
+C:\Users\User\source\repos\Biblioteca_Funcoes\bin\Debug\net5.0\Biblioteca_Funcoes.dll
+C:\Users\User\source\repos\Biblioteca_Funcoes\bin\Debug\net5.0\ref\Biblioteca_Funcoes.dll
+C:\Users\User\source\repos\Biblioteca_Funcoes\bin\Debug\net5.0\Biblioteca_Funcoes.pdb
+C:\Users\User\source\repos\Biblioteca_Funcoes\obj\Debug\net5.0\Biblioteca_Funcoes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Biblioteca_Funcoes\obj\Debug\net5.0\Biblioteca_Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Biblioteca_Funcoes\obj\Debug\net5.0\Biblioteca_Funcoes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Biblioteca_Funcoes\obj\Debug\net5.0\Biblioteca_Funcoes.AssemblyInfo.cs
+C:\Users\User\source\repos\Biblioteca_Funcoes\obj\Debug\net5.0\Biblioteca_Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Biblioteca_Funcoes\obj\Debug\net5.0\Biblioteca_Funcoes.dll
+C:\Users\User\source\repos\Biblioteca_Funcoes\obj\Debug\net5.0\ref\Biblioteca_Funcoes.dll
+C:\Users\User\source\repos\Biblioteca_Funcoes\obj\Debug\net5.0\Biblioteca_Funcoes.pdb
+C:\Users\User\source\repos\Biblioteca_Funcoes\obj\Debug\net5.0\Biblioteca_Funcoes.genruntimeconfig.cache
